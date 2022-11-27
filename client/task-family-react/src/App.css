@@ -1,0 +1,38 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.p-datatable .p-datatable-thead > tr > th {
+  background: #151515;
+  color: #fffffe;
+}
+
+.p-datatable .p-datatable-tbody > tr {
+  background: #353535;
+  color: #fffffe;
+}
+
+.badge-accept {
+  padding: 8px;
+  background: rgb(85, 223, 85);
+  font-weight: 550;
+  color: rgb(42, 92, 32);
+  border-radius: 10px;
+}
+
+.badge-incomplete {
+  padding: 8px;
+  background: rgb(223, 117, 85);
+  font-weight: 550;
+  color: rgb(193, 14, 14);
+  border-radius: 10px;
+}
+
+.p-paginator {
+  background: #151515;
+  color: #fffffe;
+}
+
